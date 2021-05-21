@@ -1,0 +1,5 @@
+#SQL总结
+- 1  
+-
+	SELECT * FROM `SCHEMATA` WHERE SCHEMA_NAME=''=0-''
+  
